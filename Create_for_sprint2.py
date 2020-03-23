@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Chips Table
-raw_data_chips = {'Item_ID': ['001', '002'],
+raw_data_chips = {'Item_ID': ['1', '2'],
             'Chips': ['Simba', 'Lays'],
             'Availability': [25, 30]}
 
@@ -11,7 +11,7 @@ print(df)
 
 
 # Cooldrinks Table
-raw_data_cooldrinks = {'Item_ID': ['011', '012'],
+raw_data_cooldrinks = {'Item_ID': ['1', '2'],
             'Cooldrinks': ['Coke', 'Fanta'],
             'Availability': [45, 21]}
 
@@ -21,7 +21,7 @@ print(df1)
 
 
 # Chocolates Table
-raw_data_chocolates = {'Item_ID': ['021', '022'],
+raw_data_chocolates = {'Item_ID': ['1', '2'],
             'Chocolates': ['Cadbury', 'Tex'],
             'Availability': [19, 10]}
 
@@ -31,7 +31,7 @@ print(df2)
 
 
 # Pies Table
-raw_data_pies = {'Item_ID': ['031', '032'],
+raw_data_pies = {'Item_ID': ['1', '2'],
             'Pies': ['Pepper Steak', 'Chicken'],
             'Availability': [25, 28]}
 
@@ -41,7 +41,7 @@ print(df3)
 
 
 # Fruit Table
-raw_data_fruit = {'Item_ID': ['041', '042', '043'],
+raw_data_fruit = {'Item_ID': ['1', '2', '3'],
             'Fruit': ['Pear', 'Apple', 'Orange'],
             'Availability': [50, 41, 32]}
 
@@ -51,7 +51,7 @@ print(df4)
 
 
 # Cupcakes Table
-raw_data_cupcakes = {'Item_ID': ['051', '052'],
+raw_data_cupcakes = {'Item_ID': ['1', '2'],
             'Cupcakes': ['Vanilla', 'Chocolate'],
             'Availability': [31, 65]}
 
@@ -61,7 +61,7 @@ print(df5)
 
 
 # Veggies Table
-raw_data_veggies = {'Item_ID': ['061', '062'],
+raw_data_veggies = {'Item_ID': ['1', '2'],
             'Veggies': ['Spinach', 'Cabbage'],
             'Availability': [13, 11]}
 

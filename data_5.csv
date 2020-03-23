@@ -1,4 +1,7 @@
 Item_ID,Fruit,Availability
-041,Pear,50
-042,Apple,41
-043,Orange,32
+1,Pear,50
+2,Apple,41
+3,Orange,32
+4,Banana,31
+5,Strawberries,45
+6,Lemons,10
